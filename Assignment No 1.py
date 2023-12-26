@@ -5,8 +5,8 @@
 
 # # House Price Prediction
 
-# # Name:- Rahul Patel
-# Roll No:-2100290100126
+# # Name:- Anugum Jain
+# Roll No:-2100290120036
 
 # In[1]:
 
@@ -20,7 +20,7 @@ from sklearn.linear_model import LinearRegression
 # In[2]:
 
 
-data=pd.read_csv(r"C:\Users\smara\OneDrive\Desktop\Housing.csv")
+data=pd.read_csv("/train.csv")
 data
 
 
